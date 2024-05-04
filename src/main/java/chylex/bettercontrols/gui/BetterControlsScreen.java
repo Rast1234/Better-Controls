@@ -246,7 +246,7 @@ public class BetterControlsScreen extends OptionsSubScreen {
 	
 	@Override
 	public void renderBackground(final @NotNull GuiGraphics graphics, final int mouseX, final int mouseY, final float delta) {
-		renderDirtBackground(graphics);
+		//renderDirtBackground(graphics);
 	}
 	
 	@Override
